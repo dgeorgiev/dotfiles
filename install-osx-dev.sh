@@ -13,6 +13,8 @@ brew cask install visual-studio-code
 brew cask install virtualbox
 brew cask install cyberduck
 brew cask install caskroom/versions/firefox-developer-edition
+brew install node
+brew install yarn
 
 # design
 brew cask install adobe-creative-cloud

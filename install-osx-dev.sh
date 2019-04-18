@@ -15,6 +15,13 @@ brew cask install cyberduck
 brew cask install caskroom/versions/firefox-developer-edition
 brew install node
 brew install yarn
+brew install php@7.1
+brew install composer
+
+brew install coreutils
+brew install findutils
+brew install openssl
+
 
 # design
 brew cask install adobe-creative-cloud
@@ -30,3 +37,5 @@ brew cask install spotify
 brew cask install slack
 brew cask install google-chrome
 brew cask install 1password
+
+vagrant plugin install vagrant-vbguest

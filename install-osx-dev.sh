@@ -22,6 +22,8 @@ brew install coreutils
 brew install findutils
 brew install openssl
 
+# devops 
+brew install docker docker-compose docker-machine xhyve docker-machine-driver-xhyve
 
 # design
 brew cask install adobe-creative-cloud

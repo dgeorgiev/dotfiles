@@ -3,7 +3,9 @@
     "editor.fontFamily": "\"Iosevka SS09\", monospace",
     "editor.fontLigatures": true,
     "window.zoomLevel": 0,
-    "workbench.colorTheme": "Monokai",
     "editor.fontWeight": "500",
     "editor.multiCursorModifier": "ctrlCmd",
+    "editor.fontSize": 13,
+    "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
+    "workbench.colorTheme": "Ayu Mirage Bordered",
 }

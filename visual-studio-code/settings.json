@@ -8,4 +8,7 @@
     "editor.fontSize": 13,
     "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
     "workbench.colorTheme": "Ayu Mirage Bordered",
+    "workbench.editor.showTabs": true,
+    "emmet.triggerExpansionOnTab": true,
+    "breadcrumbs.enabled": true,
 }

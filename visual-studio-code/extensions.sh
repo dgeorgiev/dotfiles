@@ -1,6 +1,13 @@
-Code --install-extension ms-vscode.sublime-keybindings
-Code --install-extension dbaeumer.vscode-eslint
-Code --install-extension bmewburn.vscode-intelephense-client
-Code --install-extension felixfbecker.php-debug
-Code --install-extension teabyii.ayu
-# Code --install-extension karyfoundation.theme-karyfoundation-themes
+code --install-extension bmewburn.vscode-intelephense-client
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension eamodio.gitlens
+code --install-extension felixfbecker.php-debug
+code --install-extension mikestead.dotenv
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-vscode-remote.remote-ssh
+code --install-extension ms-vscode-remote.remote-ssh-edit
+code --install-extension ms-vscode-remote.remote-ssh-explorer
+code --install-extension ms-vscode.sublime-keybindings
+code --install-extension onecentlin.laravel-blade
+code --install-extension onecentlin.laravel5-snippets
+code --install-extension teabyii.ayu

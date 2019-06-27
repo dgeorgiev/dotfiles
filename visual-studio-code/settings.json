@@ -7,8 +7,10 @@
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.fontSize": 13,
     "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
-    "workbench.colorTheme": "Ayu Mirage Bordered",
+    "workbench.colorTheme": "Ayu Light Bordered",
     "workbench.editor.showTabs": true,
     "emmet.triggerExpansionOnTab": true,
+    "blade.format.enable": true,
     "breadcrumbs.enabled": true,
+    "eslint.packageManager": "yarn",
 }

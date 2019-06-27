@@ -1,7 +1,3 @@
-# dotfiles manager
-brew tap bashdot/tap
-brew install bashdot
-
 # password manager
 brew cask install gpg-suite
 brew install pass

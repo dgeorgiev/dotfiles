@@ -1,4 +1,4 @@
-Copyright (c) 2019 Brett Weaver
+Copyright (c) 2019 Daniel Georgiev
 
 MIT License
 

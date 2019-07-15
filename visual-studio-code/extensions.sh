@@ -10,4 +10,4 @@ code --install-extension ms-vscode-remote.remote-ssh-explorer
 code --install-extension ms-vscode.sublime-keybindings
 code --install-extension onecentlin.laravel-blade
 code --install-extension onecentlin.laravel5-snippets
-code --install-extension teabyii.ayu
+code --install-extension sdras.night-owl

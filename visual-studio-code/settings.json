@@ -6,11 +6,11 @@
     "editor.fontWeight": "500",
     "editor.multiCursorModifier": "ctrlCmd",
     "workbench.iconTheme": "Monokai Pro Icons",
-    "workbench.colorTheme": "Night Owl Light",
+    "workbench.colorTheme": "Night Owl Light (No Italics)",
     "workbench.editor.showTabs": true,
     "emmet.triggerExpansionOnTab": true,
     "blade.format.enable": true,
-    "breadcrumbs.enabled": false,
+    "breadcrumbs.enabled": true,
     "eslint.packageManager": "yarn",
     "editor.fontSize": 14,
 }

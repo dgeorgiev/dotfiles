@@ -1,6 +1,6 @@
 {
     "editor.cursorSmoothCaretAnimation": true,
-    "editor.fontFamily": "\"Iosevka SS09\", monospace",
+    "editor.fontFamily": "\"SFMono-Regular\", monospace",
     "editor.fontLigatures": true,
     "window.zoomLevel": 0,
     "editor.fontWeight": "500",
@@ -12,5 +12,27 @@
     "blade.format.enable": true,
     "breadcrumbs.enabled": true,
     "eslint.packageManager": "yarn",
-    "editor.fontSize": 14,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "prettier.eslintIntegration": true,
+    "java.autobuild.enabled": false,
+    "java.import.gradle.enabled": false,
+    "prettier.tabWidth": 4,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
 }

@@ -7,7 +7,7 @@
     "editor.multiCursorModifier": "ctrlCmd",
     "workbench.iconTheme": "Monokai Pro Icons",
     "workbench.colorTheme": "Night Owl Light (No Italics)",
-    "workbench.editor.showTabs": true,
+    "workbench.editor.showTabs": false,
     "emmet.triggerExpansionOnTab": true,
     "blade.format.enable": true,
     "breadcrumbs.enabled": true,
@@ -39,4 +39,7 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "javascript.updateImportsOnFileMove.enabled": "always",
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.currentLine.enabled": false,
+    "gitlens.codeLens.enabled": false,
 }

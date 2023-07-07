@@ -1,12 +1,14 @@
 # password manager
-brew cask install gpg-suite
+brew install --cask gpg-suite
 brew install pass
 
 # dev
-brew cask install iterm2
-brew cask install visual-studio-code
-brew cask install cyberduck
-brew cask install caskroom/versions/firefox-developer-edition
+brew install --cask iterm2
+brew install --cask visual-studio-code
+brew install --cask cyberduck
+brew install --cask caskroom/versions/firefox-developer-edition
+brew install --cask sublime-text
+brew install --cask sublime-merge
 brew install node
 brew install yarn
 brew install composer
@@ -16,18 +18,18 @@ brew install findutils
 brew install openssl
 
 # devops 
-brew install docker docker-compose docker-machine xhyve docker-machine-driver-xhyve
+# brew install docker docker-compose docker-machine xhyve docker-machine-driver-xhyve
 
 # design
-brew cask install adobe-creative-cloud
+# brew install --cask adobe-creative-cloud
 # to install run:
 # open '/usr/local/Caskroom/adobe-creative-cloud/latest/Creative Cloud Installer.app'
-brew cask install sketch
+# brew install --cask sketch
 
 # utilities
-brew cask install rescuetime
-brew cask install spotify
+#brew install --cask rescuetime
+brew install --cask spotify
 
 # work
-brew cask install slack
-brew cask install google-chrome
+brew install --cask slack
+brew install --cask google-chrome

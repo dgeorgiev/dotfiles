@@ -9,6 +9,7 @@ brew install --cask cyberduck
 brew install --cask caskroom/versions/firefox-developer-edition
 brew install --cask sublime-text
 brew install --cask sublime-merge
+brew install --cask mongodb-compass
 brew install node
 brew install yarn
 brew install composer
@@ -21,13 +22,9 @@ brew install openssl
 # brew install docker docker-compose docker-machine xhyve docker-machine-driver-xhyve
 
 # design
-# brew install --cask adobe-creative-cloud
-# to install run:
-# open '/usr/local/Caskroom/adobe-creative-cloud/latest/Creative Cloud Installer.app'
-# brew install --cask sketch
+# brew install --cask adobe-creative-clou
 
 # utilities
-#brew install --cask rescuetime
 brew install --cask spotify
 
 # work

@@ -6,13 +6,19 @@ brew install pass
 brew install --cask iterm2
 brew install --cask visual-studio-code
 brew install --cask cyberduck
-brew install --cask caskroom/versions/firefox-developer-edition
+
+brew tap homebrew/cask-versions
+brew install --cask firefox-developer-edition
+
 brew install --cask sublime-text
 brew install --cask sublime-merge
 brew install --cask mongodb-compass
 brew install node
 brew install yarn
 brew install composer
+brew install php
+brew install dbngin
+brew install tableplus
 
 brew install coreutils
 brew install findutils
